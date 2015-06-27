@@ -1,1 +1,2 @@
-.gradle
+BrainFuckInterpreter/.gradle*
+BrainFuckInterpreter/build*
